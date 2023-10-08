@@ -67,7 +67,7 @@ You can run Dart programs in your browser using DartPad. Visit [DartPad](https:/
 
 Thank you for visiting my GitHub profile! If you're interested in exploring more of my projects and contributions, feel free to visit my GitHub repository:
 
-GitHub [Profile](https://github.com/Divyakumar21202.git)
+GitHub [Profile](https://github.com/Divyakumar21202)
 
 I have a diverse range of projects, and I'm always working on something new and exciting. Follow me on GitHub to stay updated with my latest work and contributions.
 
